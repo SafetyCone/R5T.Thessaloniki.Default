@@ -1,0 +1,4 @@
+R5T.Thessaloniki.Default.Construction - A construction console-app for the library R5T.Thessaloniki.Default.
+
+Goals
+
