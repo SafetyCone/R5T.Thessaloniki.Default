@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5T.Thessaloniki.Default.Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5T.Thessaloniki.Default.Testing", "R5T.Thessaloniki.Default.Testing\R5T.Thessaloniki.Default.Testing.csproj", "{273AC2AB-D50B-4B7D-B973-A3475583A749}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Dependencies", "_Dependencies", "{CD9FA02B-449E-412A-B515-8966904EFAF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5T.T0064", "..\..\R5T.T0064\source\R5T.T0064\R5T.T0064.csproj", "{57C1C72E-F39C-4CDF-8F2D-BD9D4D605EAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,5 +62,20 @@ Global
 		{273AC2AB-D50B-4B7D-B973-A3475583A749}.Release|x64.Build.0 = Release|Any CPU
 		{273AC2AB-D50B-4B7D-B973-A3475583A749}.Release|x86.ActiveCfg = Release|Any CPU
 		{273AC2AB-D50B-4B7D-B973-A3475583A749}.Release|x86.Build.0 = Release|Any CPU
+		{57C1C72E-F39C-4CDF-8F2D-BD9D4D605EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C1C72E-F39C-4CDF-8F2D-BD9D4D605EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C1C72E-F39C-4CDF-8F2D-BD9D4D605EAE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{57C1C72E-F39C-4CDF-8F2D-BD9D4D605EAE}.Debug|x64.Build.0 = Debug|Any CPU
+		{57C1C72E-F39C-4CDF-8F2D-BD9D4D605EAE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{57C1C72E-F39C-4CDF-8F2D-BD9D4D605EAE}.Debug|x86.Build.0 = Debug|Any CPU
+		{57C1C72E-F39C-4CDF-8F2D-BD9D4D605EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C1C72E-F39C-4CDF-8F2D-BD9D4D605EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57C1C72E-F39C-4CDF-8F2D-BD9D4D605EAE}.Release|x64.ActiveCfg = Release|Any CPU
+		{57C1C72E-F39C-4CDF-8F2D-BD9D4D605EAE}.Release|x64.Build.0 = Release|Any CPU
+		{57C1C72E-F39C-4CDF-8F2D-BD9D4D605EAE}.Release|x86.ActiveCfg = Release|Any CPU
+		{57C1C72E-F39C-4CDF-8F2D-BD9D4D605EAE}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{57C1C72E-F39C-4CDF-8F2D-BD9D4D605EAE} = {CD9FA02B-449E-412A-B515-8966904EFAF3}
 	EndGlobalSection
 EndGlobal
